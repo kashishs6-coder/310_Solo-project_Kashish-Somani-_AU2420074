@@ -1,0 +1,21 @@
+trial,condition,memory_load,remembered_shapes,probe_shape,trial_type,response,accuracy,reaction_time
+1,High,2,"square, circle",square,Old,up,1,3.998442400014028
+2,Low,1,square,square,Old,up,1,1.0851807999424636
+3,High,2,"square, triangle",square,Old,up,1,0.6326709999702871
+4,Low,1,square,triangle,New,up,0,0.9624891999410465
+5,High,2,"square, triangle",triangle,Old,up,1,0.9318220999557525
+6,High,2,"square, triangle",triangle,Old,up,1,0.8837180999107659
+7,High,2,"circle, square",triangle,New,up,0,2.1776291999267414
+8,High,2,"triangle, circle",square,New,up,0,1.1891142000677064
+9,Low,1,square,triangle,New,down,1,0.9819245999678969
+10,High,2,"circle, square",triangle,New,down,1,0.952560400008224
+11,Low,1,circle,circle,Old,up,1,1.1055397000163794
+12,Low,1,triangle,square,New,down,1,0.7570945000043139
+13,High,2,"square, triangle",triangle,Old,down,0,2.22266159998253
+14,Low,1,circle,square,New,down,1,3.183301599929109
+15,Low,1,triangle,triangle,Old,up,1,1.206955400062725
+16,High,2,"circle, triangle",square,New,down,1,0.5857068999903277
+17,High,2,"square, triangle",circle,New,down,1,0.6738150999881327
+18,Low,1,square,square,Old,down,0,0.46178360003978014
+19,Low,1,triangle,square,New,down,1,1.6614876999519765
+20,Low,1,triangle,triangle,Old,up,1,1.9735074000200257
